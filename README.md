@@ -1,5 +1,6 @@
 ### Oie eu sou Alycia 
 Desenvolvedora Júnior 👩‍💻
+
 JS | Git | HTML | CSS | GitHub
 
 Iniciando no mundo tech 💻
