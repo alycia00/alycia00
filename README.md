@@ -5,8 +5,8 @@ JS | Git | HTML | CSS | GitHub
 
 Iniciando no mundo tech 💻
 
-Atualmente faço parte da 11ª turma do bootcamp da Laboratória 
-
+Me formei na 11ª turma do bootcamp da Laboratória de desenvolvimento web
+Cursando análise e desenvolvimento de sistemas 
 
 <!--
 **alycia00/alycia00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
